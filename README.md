@@ -4,7 +4,7 @@ Certainly, here's a README.md file for "AdvSidlister" tool based on the provided
 
 Certainly, here's the complete README.md file for your "AdvSidlister" tool based on your provided information:
 
-```markdown
+  markdown
 # AdvSidlister - Subdomain Finder Tool
 
 AdvSidlister is a Python-based subdomain finder tool created by [siddharth0kumar](https://github.com/siddharth0kumar). It is designed to simplify the process of finding subdomains for a given domain. AdvSidlister combines the capabilities of various libraries and tools to provide you with a comprehensive list of subdomains.
@@ -102,4 +102,3 @@ If you'd like to contribute to AdvSidlister or report issues, please feel free t
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/siddharth0kumar/AdvSidlister/blob/main/LICENSE) file for details.
-```
