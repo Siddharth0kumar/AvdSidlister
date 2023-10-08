@@ -33,12 +33,15 @@ if __name__ == "__main__":
 EOL
 
 # Make the Python script executable
-sudo chmod +x AdvSidlister.py
+# sudo chmod +x AdvSidlister.py
 
 # Open the "Manual.html" file in the default web browser
 firefox Manual.html
 
-echo "If You Are Running Script As Root You Saw a error " Running Firefox as root in a regular user's session is not supported." 
+echo "If You Are Running Script As Root You Saw a error ( " Running Firefox as root in a regular user's session is not supported." ) " 
 echo "Just Ignore the error"
 
 echo "Setup for AdvSidlister complete. You can run the tool using 'python3 AdvSidlister.py'"
+
+clear
+python3 AvdSidlister.py
