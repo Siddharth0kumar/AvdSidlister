@@ -161,7 +161,6 @@ If you'd like to contribute to AdvSidlister or report issues, please feel free t
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/Siddharth0kumar/AvdSidlister/blob/main/LICENSE) file for details.
 ```
 
-Please make sure to update your README.md file in your GitHub repository with this content, and it should display the information you provided accurately.
 ## Usage
 
 To use AdvSidlister to find subdomains for a domain, follow these steps:
@@ -194,8 +193,3 @@ You can open the HTML file in a web browser to view the subdomain results in a t
 ## Contributing
 
 If you'd like to contribute to AdvSidlister or report issues, please feel free to create a pull request or issue on the GitHub repository.
-
-## License
-
-This project is licensed under the MIT License - see the [[LICENSE](LICENSE)](https://github.com/Siddharth0kumar/AvdSidlister/blob/main/LICENSE) file for details.
-```
