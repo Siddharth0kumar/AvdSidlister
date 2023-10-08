@@ -36,6 +36,6 @@ EOL
 chmod +x AdvSidlister.py
 
 # Open the "Manual.html" file in the default web browser
-xdg-open Manual.html
+firefox Manual.html
 
-echo "Setup for AdvSidlister complete. You can run the tool using './AdvSidlister.py'"
+echo "Setup for AdvSidlister complete. You can run the tool using 'python3 AdvSidlister.py'"
