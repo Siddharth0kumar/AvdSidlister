@@ -12,8 +12,8 @@ AdvSidlister is a Python-based subdomain finder tool that helps you discover sub
 - [Introduction](#introduction)
 - [Features](#features)
 - [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
 - [Usage](#usage)
 - [Results](#results)
 - [Contributing](#contributing)
@@ -49,8 +49,6 @@ You can install these prerequisites on a Debian-based system (like Ubuntu) using
    ```bash
    git clone https://github.com/yourusername/AdvSidlister.git
 ```
-
-   ```
 
 2. Change directory to the AdvSidlister folder:
 
