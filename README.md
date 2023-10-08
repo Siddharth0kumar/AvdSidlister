@@ -49,7 +49,6 @@ You can install these prerequisites on a Debian-based system (like Ubuntu) using
    ```bash
    git clone https://github.com/yourusername/AdvSidlister.git
 ```
-```
 
    ```
 
